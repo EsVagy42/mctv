@@ -1,12 +1,13 @@
 body {
     background-color: #101018;
     color: white;
-    text-align: center;
 }
 
 .mainmain {
     text-align: center;
     max-width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .main {
