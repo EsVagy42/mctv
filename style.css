@@ -5,6 +5,7 @@ body {
 
 .mainmain {
     text-align: center;
+    max-width: 2000px;
 }
 
 .main {
@@ -36,7 +37,7 @@ body {
 }
 
 .toptext {
-    font-size: 32px;
+    font-size: max(calc((100vw - 1150px) * 32), 32px);
     margin-left: auto;
     margin-right: auto;
 }
