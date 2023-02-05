@@ -1,0 +1,1 @@
+fetch("pages.html").then((response) => response.text()).then((text) => document.getElementById("aside").innerHTML = text);
