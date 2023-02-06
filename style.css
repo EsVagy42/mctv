@@ -5,9 +5,6 @@ body {
 
 .mainmain {
     text-align: center;
-    max-width: 2000px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .main {
@@ -67,6 +64,7 @@ body {
     background-color: #282828;
     overflow-y: scroll;
     overflow-x: hidden;
+    max-width: 500px;
 }
 
 @media screen and (max-width: 1400px) {
