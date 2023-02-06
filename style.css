@@ -99,7 +99,6 @@ a:hover {
 .breakingnewstableimage {
     width: 500px;
     max-width: 50vw;
-    max-height: 300px;
 }
 
 .breakingnewstableimageimage {
@@ -107,7 +106,7 @@ a:hover {
     border-bottom: solid 3px gray;
     border-top: solid 3px gray;
     width: 500px;
-    max-width: 70vw;
+    max-width: 50vw;
 }
 
 .breakingnewstabletext {
