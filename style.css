@@ -39,9 +39,15 @@ body {
 }
 
 .toptext {
-    font-size: min(calc((100vw / 1000px) * 32), 32px);
+    font-size: 32px;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .toptext {
+        font-size: 20px;
+    }
 }
 
 .imgtd {
