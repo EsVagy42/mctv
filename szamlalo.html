@@ -30,7 +30,7 @@
                 </div>
                 <div class="maintext">
                     <h1>
-                        <span id="szam"></span> nap telt el Margit nap óta.
+                        <span id="szam"></span> <span id="text">nap telt el Margit nap óta.</span>
                     </h1>
                     <script>
                         let date_1 = new Date('01/25/2023');
@@ -43,6 +43,10 @@
                         }
                         let num = days(date_1, date_2) - 1;
                         document.getElementById("szam").innerHTML = num.toString();
+                        if (num % 30 == 0)
+                        {
+                            document.getElementById("text").innerHTML = "napja van Tangens táskájában a gyertya.";
+                        }
                     </script>
                 </div>
             </div>
