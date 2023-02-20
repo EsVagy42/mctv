@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Letiltotta az admint</title>
+        <link rel="stylesheet" href="/mctv/style.css">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="aside" class="aside"></div>
+        <script src="/mctv/loader.js"></script>
+        <div class="mainmain">
+            <div class="main">
+                <div class="topmenu">
+                    <table class="toptable">
+                        <tr>
+                            <td class="imgtd">
+                                <a href="/mctv/index.html">
+                                    <img src="/mctv/mctv.png" alt="MCTV logója" class="iconimg">
+                                </a>
+                            </td>
+                            <td>
+                                <a href="/mctv/pageselect.html">
+                                    <h1 class="toptext">
+                                        Letiltotta az admint
+                                    </h1>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="maintext">
+                    <h1>
+                        Koszinusz letiltotta az admint
+                    </h1>
+                    <img src="letiltotta_az_admint.png" alt="Koszinusz letiltotta az admint" class="mainimg"><br>
+                    <p>
+                        Koszinusz jó mókának találta, ha azzal idegesíti Szinuszt, hogy az előtte lévő gépen, amin nem is volt bejelentkezve, gépel. Ekkor Polinóm viccből beírta felhasználónévként, hogy <q>admin</q> amire a számítógép egy másik gépbe akart bejelentkezni. Koszinusz ekkor egyből azt érezte, hogy meg kell próbálnia néhány egyértelmű jelszóval bejeletkezni, hátha sikerül. Sajnos azt nem tudhatta, hogy a <span title="infrarendszer">rendszer</span> 3 téves jelszó után letiltja a felhasználót. Ennek megtörténte után a gép kiírta, hogy a felhasználó tiltva van, és meg kell kérnie a rendszergazdát, hogy állítsa vissza a fiókját. Mint aznap kiderült, már nem csak Szinusz, mostmár Koszinusz is, habár véletlen, tilt le embereket, csak nem discordon, hanem a fiókjukat.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
