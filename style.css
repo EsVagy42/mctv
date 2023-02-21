@@ -112,6 +112,7 @@ a:hover {
 .breakingnewstabletext {
     border-bottom: solid 3px gray;
     border-top: solid 3px gray;
+    position: relative;
 }
 
 .mainimg {
@@ -126,4 +127,10 @@ p {
 
 .placeholder {
     opacity: 20%;
+}
+
+.date {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
 }
