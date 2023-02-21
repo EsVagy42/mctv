@@ -134,3 +134,9 @@ p {
     bottom: 5px;
     right: 5px;
 }
+
+.author {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
