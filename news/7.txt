@@ -1,0 +1,11 @@
+Kiderült, hogy Tangens egy papagáj
+img/gerzson_papagaj.png
+Koszinusz
+1676329200
+<h1>
+    A mai napon kiderült, hogy a Gerzson egy papagájnév
+</h1>
+<img src="img/gerzson_papagaj.png" alt="Gerzson a papagáj egy széken hintázik" class="mainimg"><br>
+<p>
+    Koszinusz a mai angol órán már többedszerre szólt rá Tangensre, hogy ne lopkodja a tolltartóját, amikor a tanár megjegyezte, hogy a Gerzson nevet papagájoknak szokták adni. Mivel Tangens besorolása még nem biztos, a kutatók ezen inforációk meglétében újra kutatni kezdtek, hátha alátámasztják az állítást. A legújabb kutatások később kimutatták, Tangens leginkább a papagájfélékhez tartozik, de még ez az állítás sem biztos.
+</p>

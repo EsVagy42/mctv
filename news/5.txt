@@ -1,0 +1,13 @@
+Megcsinálta az 5 fekvőtámaszát Szinusz
+img/fekvotamasz.png
+Inverz Ackermann
+1677020400
+<h1>
+    Megcsinálta az 5 fekvőtámaszát Szinusz
+</h1>
+<img src="img/fekvotamasz.png" alt="Szinusz fekvőtámaszozik" class="mainimg"><br>
+<p>
+    Szinusz angol órára nem csinált házit, így az angol tanára kitűzte, hogy 5 fekvőtámaszt meg kell csinálnia. Mivel saját bevallása szerint, Szinusz nem tud egy fekvőtámaszt sem megcsinálni, így az angol tanár kijelölte Palindromot edzőjének.<br>
+    <br>
+    Hétfőn megkérdeztük Palindromot a helyzetről: <q>Az edzés jól halad.</q> felelte; mely után Szinusz meg is mutatta tudását, csinált 5 <q title="a fekvőtámasz angolul, Tangensek kedvéért">push-up</q>-ot, megnyomta a gépén a <q>fel</q> gombot 5-ször.
+</p>

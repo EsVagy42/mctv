@@ -1,0 +1,11 @@
+Nem érte el a szakmai minimumot Koszinusz
+img/szakmai_minimum.png
+Koszinusz
+1676502000
+<h1>
+    Rossz jegyek születtek a mai tesiórán
+</h1>
+<img src="img/szakmai_minimum.png" alt="Koszinusz zsúldóforgózik" class="mainimg"><br>
+<p>
+    A mai tesiórán elég rossz jegyeket szerzett a három szögfüggvény, Szinusz, Koszinusz és Tangens. Szinusz és Tangens elég rosszul tejlesítettek, és csak egy hármast értek el, ami Szinusznak megfelelt, de Tangensnek nem. A tesióra legrosszabbja viszont Koszinusz volt, aki egy kétirányú Zsúldóforgóval kezdte a feleletét. A következő gyakorlat egy aszimmetrikus előrebukfenc volt, ezt egy <span title="Gyakorlat, nem a Tangens táskájában lévő">gyertya</span> követte. Majd egy aszimmetrikus hátrabukfenc és egy rezsőállás után Koszinusz befejezte feleletét, ami mint később kiderült, nem érte el a szakmai minimumot. Koszinusz később azt nyilatkozta, azért nem érte el a szakmai minimumot, mert a tanár nem látta a felelete elejét, amelyben a kétirányú zsúldóforgót végezte.
+</p>

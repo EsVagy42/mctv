@@ -1,0 +1,16 @@
+Koszinusz rájött, hogy a ló és a huszár ugyan az
+img/huszarlepes.png
+Szinusz
+1676847600
+<h1>
+    Koszinusz rájött, hogy sakkban a ló és a huszár ugyan az
+</h1>
+<img src="img/huszarlepes.png" alt="Koszinusz elgondolkodik, hogy ha a huszár L alakban lép, akkor a ló hogy fog lépni" class="mainimg"><br>
+<p>
+    Hétfőn matek szakkörön inverz ackermann és tangens feladatokat hoztak mivel a tanáruk
+    nem ért oda órára. Tangens feladatai sakkról szóltak, amiben koszinusz még nem túl jó.
+    Miután tangens elmagyarázta a feladatot, megmutatta, hogy kell lépni a huszárral.
+    Sajnos koszinusznak nem esett le, hogy a huszár a sakkban ugyanaz mint a ló ezért
+    koszinusz megkérdezte tangenstől, hogy nem-e a ló lép L alakban, Koszinusz hamar
+    rájött, hogy mekkora gyökér ezután. 
+</p>

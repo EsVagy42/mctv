@@ -1,0 +1,11 @@
+Koszinusznak elsős tankönyvből kell írni tanulnia
+img/koszinusz_iras.png
+Koszinusz
+1677106800
+<h1>
+    Kiderült, hogy Koszinusznak elsős tankönyvből kell írni tanulnia
+</h1>
+<img src="img/koszinusz_iras.png" class="mainimg"><br>
+<p>
+    Koszinusz nyugodtadtan ült matek órán, és oldotta meg a feladatokat. De nem sokáig ülhetett nyugton. A tanár felé közeledett. Koszinusz, mivel már megoldotta a feladatot, ült tovább nyugodtan. Ekkor a tanár odaért hozzá, és megnézte munkáját. Koszinusz munkájában nem volt baj, de az írásával igen. Mint kiderült, Koszinusz olyan jól tud K betűt írni, hogy azt a tanár U-nak hitte. Ezért is ajánlotta a tanár Koszinusznak, hogy tanuljon meg írni egy elsős tankönyvből.
+</p>

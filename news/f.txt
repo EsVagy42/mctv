@@ -1,0 +1,11 @@
+Polinóm merényletet követett el
+img/polinom_merenylet.png
+Koszinusz
+1676588400
+<h1>
+    Merényletet követett el Polinóm tesiórán Koszinusz, Tangens és Inverz Ackermann ellen
+</h1>
+<img src="img/polinom_merenylet.png" alt="Polinóm merényletet követett el" class="mainimg"><br>
+<p>
+    A mai testnevelés órán röplabdát osztályoztak. Polinóm ezt kihasználva próbált merényletet elkövetni. Először Inverz Ackermannra célzott, de ő kivédte a lövést. Ekkor még nem egyértelmű Polinóm terve, de amikor Tangenst majd Koszinuszt is eltalálta labdával akkor már mindenki tudta tervét. Szándékosan oda célzott. De nem csak Polinóm próbált merényletet elkövetni. Szinusz is Tangensre célzott, ő egy kiszámíthatatlan pályával találta el Tangenst. Szerencsére a testnevelés órán végül nem sérült meg senki. Polinóm megkérdezésünkre azt mondta: <q>Bár minden ellenem szól, nem volt szándékos</q>.
+</p>

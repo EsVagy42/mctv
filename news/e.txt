@@ -1,0 +1,11 @@
+Nem volt cipője Szinusznak
+img/nem_volt_cipoje.png
+Koszinusz
+1675810800
+<h1>
+    Nem volt cipője Szinusznak tesi órán
+</h1>
+<img src="img/nem_volt_cipoje.png" alt="Szinuszon nincs cipő" class="mainimg"><br>
+<p>
+    Cipő nélkül ment le Szinusz a B tornaterembe, csak a tornaterem előtt jött rá, hogy az órán nem tesizni, hanem pakolni fognak. Csak fél óra hideg padlón való állás után mehetett fel, és állhatott meleg padlón, de még akkor sem volt rajta cipő. Mint később kiderült, Szinusz szándékosan gyötörte magát, mert amikor Inverz Ackermann cipőt adott volna neki, akkor azt is visszautasította.
+</p>

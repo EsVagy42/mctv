@@ -1,0 +1,11 @@
+2 napot hiányzott Tangens egy nap alatt
+img/2_nap_hianyzas.png
+Koszinusz
+1675638000
+<h1>
+    Két napot hiányzott Tangens 02. 01-én
+</h1>
+<img src="img/2_nap_hianyzas.png" alt="Tangens elrejti a telefonját egy sapkában" class="mainimg"><br>
+<p>
+    Tangens bement az Arany Dániel verseny kezdete előtt egy héttel, majd megkérdezte, hogy mikor kezdődik a verseny. Később rájött, hogy az Arany Dániel verseny csak jövő héten lesz. Megkérdeztük, nem érdeklődött-e a verseny miatt hamarabb, ő erre azt válaszolta, hogy előző nap este megkérdezte Inverz Ackermannt, hogy mikor kezdődik a verseny, amire Inverz Ackermann még gyorsabban is adott választ, mint Tangens szokott. Ennek ellenére Tangens nem hitt neki, és bejött, mert Inverz Ackermann a verseny weboldaláról nézett információkat, ami köztudottan megbízhatatlan. Azt nyilatkozta, hogy az előző nap már két napot hiányzott ezért jobbnak érezte, ha ma bejön.
+</p>

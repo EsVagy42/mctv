@@ -1,0 +1,11 @@
+Beszólt Zevidu a tanárnak
+img/beszolt_zevidu.png
+Koszinusz
+1677020400
+<h1>
+    Zevidu Brendon beszólt a tanárnak német órán
+</h1>
+<img src="img/beszolt_zevidu.png" alt="Zevidu" class="mainimg"><br>
+<p>
+    Zevidu Brendon, egy 8.C-s diák német órán felelés közben jól mulatott. Csak az vette el a kedvét, amikor a tanár kijelentette, hogy nem lehet tőle felelni, ezért ő következik. Zevidu, aki nem engedi, hogy szórakozzanak vele, egyből válaszolt a tanárnak egy egyszerű mondattal: <q>Kurva anyádat.</q> Zevidu későbbi megkérdezésünkre azt válaszolta, hogy nem a tanárnak, hanem valaki másnak szegezte mondatát.
+</p>

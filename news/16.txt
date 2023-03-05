@@ -1,0 +1,11 @@
+Zevidu tudta, hogy miből írunk dolgozatot
+img/zevidu_tudta.png
+Polinóm
+1676847600
+<h1>
+    Zevidu tudta, hogy miből írunk dolgozatot
+</h1>
+<img src="img/zevidu_tudta.png" alt="Zevidu" class="mainimg"><br>
+<p>
+    Vasárnap este, Zevidu Brendon 8. C-s diák felkereste Polinómot a mellékelt csevegésben. Zevidu először arra volt kíváncsi, hogy csak irodalomból és történelemből írunk-e dolgozatot. Meglepő módon a helyes információk birtokában volt. Mint később Jenő Lámától megtudtuk, Zevidu éppen befejezte a Valoratozást, amikor eszébe jutott, hogy tanulni kellene a másnapi dolgozatra.Ezen kívül az is érdekelte, hogy miért nem kell a síszünet ideje alatt iskolába menni.
+</p>

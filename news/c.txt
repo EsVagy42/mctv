@@ -1,0 +1,20 @@
+Letiltotta az admint
+img/letiltotta_az_admint.png
+Polinóm|Koszinusz
+1676847600
+<h1>
+    Koszinusz letiltotta az admint
+</h1>
+<img src="img/letiltotta_az_admint.png" alt="Koszinusz letiltotta az admint" class="mainimg"><br>
+<h1>
+    Polinóm helyszíni beszámolója
+</h1>
+<p>
+    Szinusz és Koszinusz éppen Goofy-A szakkörön volt, amikor Inverz Anckermann bemutatta az Othello Ai-át, amit nem írt meg sem Szinusz, sem Koszinusz. Mivel Koszinusz eléggé unatkozott, ezért Szinusz szórakoztatta azzal, hogy parancssorokat akart vele begépeltetni. Mivel ez nem jött össze, ezért inkább a Szinusz előtt lévő számítógépbe próbált bejelentkezi az admin felhasználónévvel. Mivel nem tudta a jelszót és harmadik próbálkozásra sem sikerült belépni, ezért a gép letiltotta az admin felhasználót. Ekkor Koszinusz így nyilatkozott: "Nem én voltam, hát Szinusz volt!"A szakkör végén Koszinusz odament  Goofy-A-hoz és megkérdezte tőle, hogy most mi van, Goofy-A pedig azt válaszolta, hogy ki fogja őket nyírni a rendszergazda. További fejleményekről a későbbiekben beszámolunk, addig is, gyújtsunk értük <span title="ne a Tangens táskájában lévőt, azt még mindig nem vette észre">gyertyát</span>.
+</p>
+<h1>
+    Koszinusz helyszíni beszámolója
+</h1>
+<p>
+    Koszinusz jó mókának találta, ha azzal idegesíti Szinuszt, hogy az előtte lévő gépen, amin nem is volt bejelentkezve, gépel. Ekkor Polinóm viccből beírta felhasználónévként, hogy <q>admin</q> amire a számítógép egy másik gépbe akart bejelentkezni. Koszinusz ekkor egyből azt érezte, hogy meg kell próbálnia néhány egyértelmű jelszóval bejeletkezni, hátha sikerül. Sajnos azt nem tudhatta, hogy a <span title="infrarendszer">rendszer</span> 3 téves jelszó után letiltja a felhasználót. Ennek megtörténte után a gép kiírta, hogy a felhasználó tiltva van, és meg kell kérnie a rendszergazdát, hogy állítsa vissza a fiókját. Mint aznap kiderült, már nem csak Szinusz, mostmár Koszinusz is, habár véletlen, tilt le embereket, csak nem discordon, hanem a fiókjukat.
+</p>

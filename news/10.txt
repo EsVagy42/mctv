@@ -1,0 +1,12 @@
+Sus volt Koszinusz
+img/sus_koszinusz.png
+Koszinusz
+1675724400
+<h1>
+    Sus volt Koszinusz ének órán
+</h1>
+<img src="img/sus_koszinusz.png" alt="Sus volt Koszinusz" class="mainimg"><br>
+<p>
+    Nagyon sus volt Koszinusz ének órán. Amikor a tanár megkérdezte, hogy tetszik-e nekünk Özlem, akkor Koszinusz igennel válaszolt. Szinusz az eseményt egyből lejegyezte. Koszinusz a megkérdezésünkre azt mondta, hogy mindenki a háta mögött igennel válaszolt, ezért ő is ezt mondta. Mire rá jött, mire válaszolt, már túl késő volt. Szinusz egyből megjegyezte a válaszát.
+</p>
+<!-- Szinusz, ha nem tudsz írni Discordon, akkor az azért van, mert le vagy tiltva. -->

@@ -1,0 +1,11 @@
+Érvénytelen volt Tangens házipassza
+img/ervenytelen_hazipassz.png
+Koszinusz
+1676847600
+<h1>
+    A házipassz felhasználása közben derült ki, hogy Tangens házipassza érvénytelen
+</h1>
+<img src="img/ervenytelen_hazipassz.png" alt="Ervenytelen Tangens házipassza" class="mainimg"><br>
+<p>
+    Tangens a mai matekóra elején jött rá, hogy nem csinált házit. Szerencsére eszébe jutott, hogy van házipassza, ép időben, mert a tanár már mellette állt a házi ellenőrzése iránt. Tangens így hát egyből előrántotta a házipasszát, amit oly nagy boldogsággal nyújtott át a tanárnak. A boldogságot viszont lemosta az arcáról az, amikor a tanár érvénytelennek nyilvánította a házipasszát az aláírás meg nem léte miatt. A helyzetet az is rontotta, hogy ahelyett, hogy a tanár visszaadta volna neki a házipasszát és ráírhatta volna a nevét, ahelyett a tanár elvette a házipasszát, és kihívta a táblához, hogy oldja meg az arra az órára feladott házifeladatot. Így járt pórul és vesztette el a dogapasszát Tangens egy óra alatt.
+</p>

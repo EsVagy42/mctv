@@ -1,0 +1,11 @@
+Szinusznak fenntartott hely
+img/szinusznak_fenntartott_hely.png
+Koszinusz
+1675810800
+<h1>
+    Volt Szinusznak fenttartott hely a 314-es teremben
+</h1>
+<img src="img/szinusznak_fenntartott_hely.png" alt="Szinusznak volt fenntartott hely" class="mainimg"><br>
+<p>
+    Kiderült, hogy Szinusznak tartottak fenn helyet a 314-es teremben, nyilatkozta Koszinusz. Amikor bementem, mondta, észrevettem, hogy a mellettem lévő helyen volt egy cetli "Sonkás" felirattal. Még nem tudtam mit jelent, de amikor Szinusz elfolgalta azt a helyet egyből megértettem, a cetli azt jelezte, hogy a pad azon része Szinusznak van fenntartva. Koszinusz azt is megjegyezte, hogy lehetséges, hogy Szinusznak külön VIP helyet tartottak fenn.
+</p>

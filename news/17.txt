@@ -1,0 +1,36 @@
+Új Szinusz/Koszinusz plays
+img/zusi.png
+Koszinusz
+1676156400
+<h1>
+    Kijön az új Szinusz/Koszinusz plays
+</h1>
+<img src="img/zusi.png" alt="zusi sim" class="mainimg"><br>
+<p>
+    2023. 02. 12-én lett felvéve az új Szinusz/Koszinusz plays Inverz Ackermann társaságában. A műsor során a két gyökér egy vonatot próbál meg vezetni, figyelve a sebességkorlátokra, a jelzőkre, és főleg a fél percenként előforduló szívfaszra, amelyek figyelembe nem vétele a vonat azonnali vészfékezésével jár. A műsor során megfigyelhetjük, ahogy Szinusz túlmegy az állomáson, visszatolat túlságosan, aztán harmadszorra csak sikerül megállnia a megállóban, majd Koszinusz a szívfasz elkerülése érdekében véletlenül nem a Space-re hanem valami másra nyom, amitől az egész vonat leáll, és utána három percig végignézhetjük, ahogy Inverz Ackermann próbálja újraindítani a vonatot.
+</p>
+<h1>
+    A tét
+</h1>
+<img src="img/oviteve.png" alt="ovitévé feliratkozás" class="mainimg"><br>
+<p>
+    Szinusz és Koszinusz a só előtt megegyeztek, hogy aki többet késik, az a következő adásban többet fog játszani az <q>I wanna be the guy</q> nevű játékkal és a vesztes feliratkozik egy hétig az ovitévé nevezetű csatornára. <span id="showText">Így esett meg, hogy Koszinusz most még <span id="days"></span> napig fel lesz iratkozva az ovitévé csatornájára.</span>
+</p>
+<script>
+    let date_1 = new Date('02/19/2023');
+    let date_2 = new Date();
+
+    const days = (date_1, date_2) =>{
+        let difference = date_1.getTime() - date_2.getTime();
+        let TotalDays = Math.ceil(difference / (1000 * 3600 * 24));
+        return TotalDays;
+    }
+    let num = days(date_1, date_2);
+    if (num > 0)
+    {
+        document.getElementById("days").innerHTML = num.toString();
+    }
+    else{
+        document.getElementById("showText").innerHTML = "Így esett meg, hogy Koszinusz egy hétig fel volt iratkozva az ovitévé csatornájára.";
+    }
+</script>

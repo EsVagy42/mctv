@@ -1,0 +1,11 @@
+Ma is pórul járt Tangens
+img/ma_is_porul_jart.png
+Koszinusz
+1676934000
+<h1>
+    Ma is pórul járt Tnagens geometria órán
+</h1>
+<img src="img/ma_is_porul_jart.png" alt="Tangens pórul járt" class="mainimg"><br>
+<p>
+    Tangens az előző geometria órát megúszva reménykedett, hogy ezen az órán nem jár pórul, főleg azért mert még a házit is megcsinálta. Reménye sajnos egyből elveszett, mivel az óra elején a tanár azzal kezdte, hogy odamegy hozzá, és csak hozzá, hogy ellenőrizze a háziját. Tangens fel is mutatta háziját, de mint az előző alkalommal, most is volt valami probléma a tettével. Az öt feladatból csak egyet csinált meg, így még egy házipasszt el kellett használnia. Mint majd kiderült, addig lesz ellenőrizve a házija, amíg ki nem fogy a házipasszokból.
+</p>
