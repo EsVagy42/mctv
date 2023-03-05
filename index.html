@@ -4,15 +4,18 @@
 <head>
     <meta charset="utf-8" />
     <title>MCTV</title>
+    <base href="/mctv" />
     <link href="css/app.css" rel="stylesheet" />
-    
-     <!--If you add any scoped CSS files, uncomment the following to load them-->
-    <link href="MCTV.styles.css" rel="stylesheet" /> 
+
+    <!--If you add any scoped CSS files, uncomment the following to load them-->
+    <!--<link href="MCTV.styles.css" rel="stylesheet" />-->
 </head>
 
 <body>
-    <div id="app"><img src="images/loading.gif" /><br />
-    Tölt a kaptár, kérlek várj...</div>
+    <div id="app">
+        <img src="images/loading.gif" /><br />
+        Tölt a kaptár, kérlek várj...
+    </div>
 
     <div id="blazor-error-ui">
         <img src="images/error.gif" /><br />
@@ -21,6 +24,7 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script src="/_framework/aspnetcore-browser-refresh.js"></script>
 </body>
 
 </html>
