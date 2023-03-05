@@ -1,0 +1,13 @@
+﻿<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Üres a kaptár...</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p role="alert"><img src="images/error.gif" /><br />
+                Mekkora gyökér... Ezen a címen nincsen semmi...</p>
+        </LayoutView>
+    </NotFound>
+</Router>
