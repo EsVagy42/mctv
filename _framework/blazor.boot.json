@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "MCTV.dll": "sha256-UoYIXlBY4OFWLTpNPBoQDi7O9nCz6umTjmIsSOjv2QY=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-TvysKcHlwflT4Js1e8i9TsrxWbcM+KzZo3z1Z9OCLeM=",
+      "MCTV.dll": "sha256-XBuXOxsJpe6poh0bw1IAr3AlrMlEkVlUi35MoHOfwFk=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-XaMw5NYFVurn\/ShVD7dyt3H9vTNd8+8vQ9zViI7K3Oo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-j4qLZu+kFPE4bZV3LDd8XhnXs6MQfharjY4W1GKIP5s=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-VoOExk2fEE249K3Jayw1Nymq9Bc8LlKEWiOG9\/0GiNY=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X\/f4fDl2cuIRXeWHhK\/f2UqQbFioD+RU4a4CEh0zrrQ=",
