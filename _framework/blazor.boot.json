@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "MCTV.dll": "sha256-TeP73JCN6hIcTop4PaO56X89KcHv02Qq3ReLC\/ZJZOg=",
+      "MCTV.dll": "sha256-Sc65Nkld+lQYuUeDp00dXak6whARXJhJN84C+h2l\/30=",
       "Microsoft.AspNetCore.Components.dll": "sha256-DBcUi\/vQ2Pe25\/Ntxl3bCfN+eFzMQBGuFGU\/aqyoLlQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Soy4UFYhtsaohF1DW+b0onV4CypJpt47+njtzc4vK\/E=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-VoOExk2fEE249K3Jayw1Nymq9Bc8LlKEWiOG9\/0GiNY=",
