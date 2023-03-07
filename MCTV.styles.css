@@ -2,6 +2,7 @@ body {
     background-color: #101018;
     color: white;
     text-align: center;
+    cursor: url('cursor.cur'), default;
 }
 
 main {
@@ -18,6 +19,7 @@ h1 {
 a {
     color: white;
     text-decoration: none;
+    cursor: url('cursor1.cur'), pointer;
 }
 
     a:hover {
