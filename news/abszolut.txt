@@ -1,10 +1,11 @@
 Exkluzív kihívás a szögfüggvényeknek - Abszolút kiléte
-img/anszolut-kilete.png
+img/abszolut-kilete.png
 Polinóm
 1678208792
 <h1>
 	Exklúzív kihívás a Szögfüggvényeknek!
 </h1>
+<img src="img/abszolut-kilete.png" class="mainimg">
 <p>
 	Én, Polinóm exklúzív kihívást hirdetek a három szögfüggvény részére, hogy kitalálják Abszolút kilétét. Mivel Abszolút tud róla és a többi a helyszínen jelenlévő is tájékoztatva lett arról, hogy ne adják ki Abszolút kilétét, ezért teljességgel lehetetlen a külső segítség bevonása.
 </p>

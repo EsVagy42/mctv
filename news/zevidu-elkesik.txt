@@ -5,6 +5,7 @@ Polinóm
 <h1>
 	Zevidu Brendon 8.C-s diák sorozatosan elkésik magyar óráról
 </h1>
+<img src="img/zevidu_elkesik.png" class="mainimg">
 <p>
 	A múlt héten, csütörtökön, Zevidu nemes egyszerűséggel nem jelent meg az első órán. Majd a másodikon sem. Végül a teljes napot nézve 84 perc késéssel sikerült megérkeznie az iskolába. Ez az esemény kivételesen nem csak a Szögfüggvényeket zaklatta fel, hanem az MCTV teljes szerkesztőségében is nagy érdeklődést váltott ki. További információink, valamint Zevidu szemüvegének hiánya miatt arra következtettünk, hogy Brendon a szemüvegét vitte el megjavíttatni.
 </p>

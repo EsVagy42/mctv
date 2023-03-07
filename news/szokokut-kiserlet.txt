@@ -5,6 +5,7 @@ Polinóm
 <h1>
 	Abszolútnak sikerült rekonstruálni a Szökőkút kísérletet Geometridash-órán
 </h1>
+<img src="img/szokokut.png" class="mainimg">
 <p>
 	Már éppen el is tudott volna kezdődni a Geometridash-óra, amikor Abszolútnak eszébe jutott, hogy inni szeretne a még korábban fel nem bontott flakonjából. Mivel a másfél literes flakonban erőteljes túlnyomás uralkodott és ráadásul a citromos víz cukortartalma miatt minden ragadni tudott, ezért a felbontás közben természetesen baleset történt.Mivel már ekkor bennt volt a tanár, ezért Abszolút azt a javaslatot kapta, hogy törölje fel az innivalót a padról, hogy elkezdődhessen az óra.Később Abszolút úgy nyilatkozott, hogy nagyon szívesen meghallgatta volna a tanár gondolatait aközben, hogy feltörtölte az innivalót.
 </p>
