@@ -163,7 +163,8 @@ body::-webkit-scrollbar-thumb {
     }
 
     main {
-        margin: 0;
+        margin-left: 0;
+        margin-bottom: 50px;
     }
 }
 
