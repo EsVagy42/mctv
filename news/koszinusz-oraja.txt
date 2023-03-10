@@ -1,0 +1,11 @@
+Kémia doga közben romlott el Koszinusz órája
+img/koszinusz_oraja.png
+Koszinusz
+1678467291
+<h1>
+	Kémia doga közben elromlott Koszinusz órája
+</h1>
+<img class="mainimg" src="img/koszinusz_oraja.png">
+<p>
+	Nagyon furán viselkedett kémia doga közben az órám, nyilatkozta Koszinusz. Valahogy megnyílt rajta a böngésző, és miután arra az oldalra ment, amin a tananyagok vannak, pontosan arra a részére görgetett a kémia vázlatnak, amelyből ép a dogát írtuk. Ezt nagyon furcsának találtam, ezért meg akartam nézni, hogy tényleg nem csak képzelődőm-e, és leellenőriztem, hogy az oldalon az olajsav jól van-e leírva. Mint kiderült, jól volt leírva, tehát nem képzelődtem. A probléma csak az volt, hogy a tanár már mellettem is állt és engem nézett. Mivel azt hihette, hogy puskázni akarok, ezért inkább odaadtam neki az órám, nehogy valami más váratlan dolgot is csináljon, például elindítson egy videót a híres arab youtuber videói közül.
+</p>
