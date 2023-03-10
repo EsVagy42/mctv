@@ -1,0 +1,11 @@
+Koszinusz szájából is kapanyél lóg
+img/kapanyel.png
+Koszinusz
+1678431874
+<h1>
+	Koszinusz szájából is kapanyél lóg
+</h1>
+<img class="mainimg" src="img/kapanyel.png">
+<p>
+	Koszinusz 3 perccel becsengetés után még Trackmaniával játszott. Ekkor történt, hogy nem vett észre egy kanyart, és úgy hozzácsapódott a falhoz, mint Tangens a kampányon egy tanárnak. Ezt egy hangos káromkodás követte. Sajnos Koszinusz ekkor vette csak észre, hogy a tanár már bejött az ajtón. Koszinusz remélte, hogy a tanár nem hallotta a káromkodást, mind hiába, a tanár már kérdeze, hogy ki volt, és kérte az ellenőrzőjét. Koszinusz ezek után szétnézett, hogy ki káromkodhatott, mintha nem tudta volna pontosan, hogy ki volt. Szerencséjére, Koszinusz végül megúszta a büntetést.
+</p>
